@@ -1,0 +1,11 @@
+https://www.tutorialspoint.com/agile/
+
+https://www.atlassian.com/software/jira/try
+
+Defect Triage Meeting
+
+Status: As Designed (Not a bug)
+Open
+Fixed & Closed
+Reopened
+
