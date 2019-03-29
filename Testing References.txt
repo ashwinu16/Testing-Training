@@ -4,8 +4,15 @@ https://www.atlassian.com/software/jira/try
 
 Defect Triage Meeting
 
-Status: As Designed (Not a bug)
+Defect Status: As Designed (Not a bug)
 Open
 Fixed & Closed
 Reopened
+
+GIT: (Version Control)
+
+https://github.com/ashwinu16/Testing-Training
+
+Manual Testing References:
+https://www.tutorialspoint.com/software_testing_dictionary/manual_testing.htm
 
