@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<con:mockOperation name="Divide" id="2170fd4c-6e98-4ae5-a649-974bbd2572a2" interface="CalculatorSoap12" operation="Divide" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="2170fd4c-6e98-4ae5-a649-974bbd2572a2fileName">Divide</con:setting></con:settings><con:defaultResponse>Response 1</con:defaultResponse><con:dispatchStyle>SEQUENCE</con:dispatchStyle><con:dispatchConfig/><con:dispatchXPath/><con:routeScript/><con:response name="Response 1" id="fd1e2273-1482-4c2f-af6f-8bb428727a1d" httpResponseStatus="200" encoding="UTF-8"><con:settings/><con:responseContent><![CDATA[<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:tem="http://tempuri.org/">
-   <soap:Header/>
-   <soap:Body>
-      <tem:DivideResponse>
-         <tem:DivideResult>?</tem:DivideResult>
-      </tem:DivideResponse>
-   </soap:Body>
-</soap:Envelope>]]></con:responseContent><con:wsaConfig mustUnderstand="NONE" version="200508" action="http://tempuri.org/CalculatorSoap/DivideResponse"/></con:response></con:mockOperation>

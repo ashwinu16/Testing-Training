@@ -1,0 +1,21 @@
+Webservice: Communicating two different applications over the web
+
+Types of Webservices:
+
+SOAP and REST
+SOAP:	Simple object Access Protocol: Its a communication protocol, It sends and receive the messages between the applications without any operational issues
+REST:	Representational State Transfer 
+
+Use of webservices: No application or technology dependencies
+
+Strecture of SOAP messages
+	Envelope: endpoints
+	Header: (Optional)
+	Body:
+	Fault: 
+	
+For webservices testting we need to have the contract(WSDL: webservice definition language) 
+WSDL is a xml document which describes the webservice 
+	Calculator Webservice
+	http://www.dneonline.com/calculator.asmx?WSDL
+	

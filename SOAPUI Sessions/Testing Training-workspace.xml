@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-workspace name="Testing Training" cid="49f22ee6-0d04-402b-bb63-0b26f65c9395" soapui-version="6.0.0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:project name="Calculator_SOAP" lastOpened="2019-03-31T21:44:48.938-04:00">C:/Training/Testing-Training/SOAPUI Sessions/Calculator/Calculator-SOAP-Project.xml</con:project>
+  <con:recentItemCollection>
+    <con:moduleId>SoapUiNGModule</con:moduleId>
+    <con:itemId>499f4981-ff22-4058-a3c1-dbd0d078b41d</con:itemId>
+    <con:itemId>6ec8215a-0953-44f6-8314-58f0d048206c</con:itemId>
+  </con:recentItemCollection>
+  <con:recentItemCollection>
+    <con:moduleId>ServiceVirtualizationModule</con:moduleId>
+    <con:itemId>3f541116-b186-47c3-aa6f-0b24ce680fbb</con:itemId>
+  </con:recentItemCollection>
+  <con:recentItemCollection>
+    <con:moduleId>ProjectsModule</con:moduleId>
+    <con:itemId>dec65229-0540-427b-85ac-f776b3baf4b1</con:itemId>
+    <con:itemId>5a9d1607-c054-47a1-8d9e-7efc505f2020</con:itemId>
+    <con:itemId>28f89266-ef15-44ee-883f-23b45354cc76</con:itemId>
+  </con:recentItemCollection>
+  <con:navigatorNodeCollection>
+    <con:rootNodeLabel>SoapUI</con:rootNodeLabel>
+    <con:expandNodeState>
+      <con:id>d12e8c0c-ba84-463f-b131-3d57166ab1ec</con:id>
+      <con:expandState>true</con:expandState>
+    </con:expandNodeState>
+    <con:expandNodeState>
+      <con:id>2c8d86fa-482f-464e-ae65-eb2b5867db73</con:id>
+      <con:expandState>true</con:expandState>
+    </con:expandNodeState>
+    <con:expandNodeState>
+      <con:id>0815a1be-cdda-4214-a8b4-4ed72ca6b499</con:id>
+      <con:expandState>false</con:expandState>
+    </con:expandNodeState>
+    <con:expandNodeState>
+      <con:id>de44e180-6002-4f06-8778-33aa880f0b83</con:id>
+      <con:expandState>false</con:expandState>
+    </con:expandNodeState>
+    <con:expandNodeState>
+      <con:id>8639e158-7853-4240-a39a-077589b72d5e</con:id>
+      <con:expandState>true</con:expandState>
+    </con:expandNodeState>
+    <con:expandNodeState>
+      <con:id>1cc4590b-c0f3-4927-96a0-e4398b5ddf5e</con:id>
+      <con:expandState>true</con:expandState>
+    </con:expandNodeState>
+    <con:expandNodeState>
+      <con:id>075830d6-00a5-4524-96f3-729a96797433</con:id>
+      <con:expandState>true</con:expandState>
+    </con:expandNodeState>
+    <con:expandNodeState>
+      <con:id>7b358160-8e3b-48b4-860a-316b88eb0679</con:id>
+      <con:expandState>true</con:expandState>
+    </con:expandNodeState>
+    <con:expandNodeState>
+      <con:id>8758a2d4-4c74-4d14-93fe-1e3b2e5e396a</con:id>
+      <con:expandState>true</con:expandState>
+    </con:expandNodeState>
+    <con:expandNodeState>
+      <con:id>71126669-dead-4658-bece-ccb48d3c1727</con:id>
+      <con:expandState>true</con:expandState>
+    </con:expandNodeState>
+    <con:expandNodeState>
+      <con:id>7a74288b-5871-49af-a8fb-10173df9ef79</con:id>
+      <con:expandState>true</con:expandState>
+    </con:expandNodeState>
+    <con:expandNodeState>
+      <con:id>a3e15e8b-dd92-4f09-b632-9b62f8144072</con:id>
+      <con:expandState>true</con:expandState>
+    </con:expandNodeState>
+    <con:expandNodeState>
+      <con:id>641e01bf-ecce-4895-ae36-6de15fe63356</con:id>
+      <con:expandState>true</con:expandState>
+    </con:expandNodeState>
+    <con:expandNodeState>
+      <con:id>6ec8215a-0953-44f6-8314-58f0d048206c</con:id>
+      <con:expandState>false</con:expandState>
+    </con:expandNodeState>
+  </con:navigatorNodeCollection>
+  <con:navigatorNodeCollection>
+    <con:rootNodeLabel>ServiceV</con:rootNodeLabel>
+    <con:expandNodeState>
+      <con:id>de44e180-6002-4f06-8778-33aa880f0b83</con:id>
+      <con:expandState>true</con:expandState>
+    </con:expandNodeState>
+  </con:navigatorNodeCollection>
+  <con:navigatorNodeCollection>
+    <con:rootNodeLabel>Projects</con:rootNodeLabel>
+    <con:expandNodeState>
+      <con:id>de44e180-6002-4f06-8778-33aa880f0b83</con:id>
+      <con:expandState>true</con:expandState>
+    </con:expandNodeState>
+    <con:expandNodeState>
+      <con:id>dec65229-0540-427b-85ac-f776b3baf4b1</con:id>
+      <con:expandState>true</con:expandState>
+    </con:expandNodeState>
+    <con:expandNodeState>
+      <con:id>5a9d1607-c054-47a1-8d9e-7efc505f2020</con:id>
+      <con:expandState>true</con:expandState>
+    </con:expandNodeState>
+    <con:expandNodeState>
+      <con:id>3918588b-8147-43be-9675-79f5c0eef3d2</con:id>
+      <con:expandState>true</con:expandState>
+    </con:expandNodeState>
+  </con:navigatorNodeCollection>
+  <con:navigatorNodeCollection>
+    <con:rootNodeLabel>operations</con:rootNodeLabel>
+  </con:navigatorNodeCollection>
+  <con:dashboardTileCollection>
+    <con:dashboardTiles>
+      <con:dashboardTile tileId="fd28929e-cfc9-4e69-aa66-4125305e50e7" tileType="NEW_TEST"/>
+      <con:dashboardTile tileId="3d1686fa-58e3-44b3-87f9-6d1f7c1b4286" tileType="TEST_SUITE_STATUS">
+        <con:settings xsi:type="con:TestStatusTileSettings" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <con:mode>
+            <con:today>true</con:today>
+          </con:mode>
+          <con:filter>
+            <con:failed>true</con:failed>
+            <con:passed>true</con:passed>
+            <con:unknown>true</con:unknown>
+          </con:filter>
+        </con:settings>
+      </con:dashboardTile>
+      <con:dashboardTile tileId="6ec76760-79a2-436f-816d-94bd1ee1a3f6" tileType="TEST_CASE_STATUS_TILE">
+        <con:settings xsi:type="con:TestCaseStatusTileSettings" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <con:mode>
+            <con:today>true</con:today>
+          </con:mode>
+          <con:filter>
+            <con:failed>true</con:failed>
+            <con:passed>true</con:passed>
+            <con:unknown>true</con:unknown>
+          </con:filter>
+        </con:settings>
+      </con:dashboardTile>
+      <con:dashboardTile tileId="a2bd07c0-538f-4740-a5cc-ccb4984a074e" tileType="SECURE_TILE">
+        <con:settings xsi:type="con:SecureTileSettings" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <con:mode>
+            <con:today>true</con:today>
+          </con:mode>
+          <con:scan>All Scans</con:scan>
+          <con:project>All Projects</con:project>
+        </con:settings>
+      </con:dashboardTile>
+      <con:dashboardTile tileId="c95db356-90f2-4717-8012-b7004ec14c2a" tileType="LOADUI_HISTORY_TILE">
+        <con:settings xsi:type="con:LoadHistoryTileSettings" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <con:mode>
+            <con:today>true</con:today>
+          </con:mode>
+          <con:project>All Projects</con:project>
+          <con:filter>
+            <con:avg>true</con:avg>
+            <con:duration>true</con:duration>
+            <con:failures>true</con:failures>
+          </con:filter>
+        </con:settings>
+      </con:dashboardTile>
+      <con:dashboardTile tileId="10dff757-3be4-472d-af2f-5a5c4bfb7d87" tileType="SERVICEV">
+        <con:settings xsi:type="con:ServiceVTileSettings" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+          <con:tableSettings>
+            <con:column>Name</con:column>
+            <con:column>Status</con:column>
+            <con:column>Location</con:column>
+            <con:column>Port</con:column>
+          </con:tableSettings>
+          <con:searchSettings>
+            <con:searchType>All</con:searchType>
+          </con:searchSettings>
+        </con:settings>
+      </con:dashboardTile>
+    </con:dashboardTiles>
+    <con:recentDashboardTiles/>
+  </con:dashboardTileCollection>
+</con:soapui-workspace>

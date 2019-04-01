@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <con:soapui-workspace name="Testing Training" cid="49f22ee6-0d04-402b-bb63-0b26f65c9395" soapui-version="6.0.0" xmlns:con="http://eviware.com/soapui/config">
   <con:settings/>
-  <con:project name="Calculator" lastOpened="2019-03-31T19:06:46.968-04:00">C:/Training/Testing-Training/Calculator/Calculator-readyapi-project.xml</con:project>
   <con:recentItemCollection>
     <con:moduleId>SoapUiNGModule</con:moduleId>
     <con:itemId>7a74288b-5871-49af-a8fb-10173df9ef79</con:itemId>
@@ -58,7 +57,7 @@
     </con:expandNodeState>
     <con:expandNodeState>
       <con:id>71126669-dead-4658-bece-ccb48d3c1727</con:id>
-      <con:expandState>true</con:expandState>
+      <con:expandState>false</con:expandState>
     </con:expandNodeState>
     <con:expandNodeState>
       <con:id>7a74288b-5871-49af-a8fb-10173df9ef79</con:id>
@@ -102,7 +101,11 @@
           <con:mode>
             <con:today>true</con:today>
           </con:mode>
-          <con:filter/>
+          <con:filter>
+            <con:failed>true</con:failed>
+            <con:passed>true</con:passed>
+            <con:unknown>true</con:unknown>
+          </con:filter>
         </con:settings>
       </con:dashboardTile>
       <con:dashboardTile tileId="6ec76760-79a2-436f-816d-94bd1ee1a3f6" tileType="TEST_CASE_STATUS_TILE">
@@ -110,7 +113,11 @@
           <con:mode>
             <con:today>true</con:today>
           </con:mode>
-          <con:filter/>
+          <con:filter>
+            <con:failed>true</con:failed>
+            <con:passed>true</con:passed>
+            <con:unknown>true</con:unknown>
+          </con:filter>
         </con:settings>
       </con:dashboardTile>
       <con:dashboardTile tileId="a2bd07c0-538f-4740-a5cc-ccb4984a074e" tileType="SECURE_TILE">
@@ -128,7 +135,11 @@
             <con:today>true</con:today>
           </con:mode>
           <con:project>All Projects</con:project>
-          <con:filter/>
+          <con:filter>
+            <con:avg>true</con:avg>
+            <con:duration>true</con:duration>
+            <con:failures>true</con:failures>
+          </con:filter>
         </con:settings>
       </con:dashboardTile>
       <con:dashboardTile tileId="10dff757-3be4-472d-af2f-5a5c4bfb7d87" tileType="SERVICEV">
@@ -139,6 +150,9 @@
             <con:column>Location</con:column>
             <con:column>Port</con:column>
           </con:tableSettings>
+          <con:searchSettings>
+            <con:searchType>All</con:searchType>
+          </con:searchSettings>
         </con:settings>
       </con:dashboardTile>
     </con:dashboardTiles>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<con:mockOperation name="Multiply" id="d741827b-df3e-4bf8-b608-832960c50cd1" interface="CalculatorSoap12" operation="Multiply" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="d741827b-df3e-4bf8-b608-832960c50cd1fileName">Multiply</con:setting></con:settings><con:defaultResponse>Response 1</con:defaultResponse><con:dispatchStyle>SEQUENCE</con:dispatchStyle><con:dispatchConfig/><con:dispatchXPath/><con:routeScript/><con:response name="Response 1" id="e15c4d9f-6bde-436d-be55-c792397da880" httpResponseStatus="200" encoding="UTF-8"><con:settings/><con:responseContent><![CDATA[<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:tem="http://tempuri.org/">
-   <soap:Header/>
-   <soap:Body>
-      <tem:MultiplyResponse>
-         <tem:MultiplyResult>?</tem:MultiplyResult>
-      </tem:MultiplyResponse>
-   </soap:Body>
-</soap:Envelope>]]></con:responseContent><con:wsaConfig mustUnderstand="NONE" version="200508" action="http://tempuri.org/CalculatorSoap/MultiplyResponse"/></con:response></con:mockOperation>

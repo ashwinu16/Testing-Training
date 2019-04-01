@@ -1,5 +1,0 @@
-SOAPUI Pro:
-https://www.soapui.org/downloads/download-soapui-pro-trial.html
-
-Concepts of SOAP, REST, XML, WSDL, WADL 
-Protocols: SOAP, HTTP
